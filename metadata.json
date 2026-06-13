@@ -1,0 +1,8 @@
+{
+  "name": "Batik Srigaya",
+  "description": "A luxury editorial website for an Indonesian batik brand named Batik Srigaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
